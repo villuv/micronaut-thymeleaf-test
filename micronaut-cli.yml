@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: thymeleaf.test
+---
+testFramework: junit
+sourceLanguage: java

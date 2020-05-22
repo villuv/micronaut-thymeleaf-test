@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: thymeleaf-test
+  server:
+    port: 8088
